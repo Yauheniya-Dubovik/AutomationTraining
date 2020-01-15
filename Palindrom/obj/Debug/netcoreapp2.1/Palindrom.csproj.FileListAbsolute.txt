@@ -1,0 +1,10 @@
+C:\Users\Yauheniya.Dubovik\RiderProjects\Palindrom\Palindrom\bin\Debug\netcoreapp2.1\Palindrom.deps.json
+C:\Users\Yauheniya.Dubovik\RiderProjects\Palindrom\Palindrom\bin\Debug\netcoreapp2.1\Palindrom.runtimeconfig.json
+C:\Users\Yauheniya.Dubovik\RiderProjects\Palindrom\Palindrom\bin\Debug\netcoreapp2.1\Palindrom.runtimeconfig.dev.json
+C:\Users\Yauheniya.Dubovik\RiderProjects\Palindrom\Palindrom\bin\Debug\netcoreapp2.1\Palindrom.dll
+C:\Users\Yauheniya.Dubovik\RiderProjects\Palindrom\Palindrom\bin\Debug\netcoreapp2.1\Palindrom.pdb
+C:\Users\Yauheniya.Dubovik\RiderProjects\Palindrom\Palindrom\obj\Debug\netcoreapp2.1\Palindrom.csprojAssemblyReference.cache
+C:\Users\Yauheniya.Dubovik\RiderProjects\Palindrom\Palindrom\obj\Debug\netcoreapp2.1\Palindrom.AssemblyInfoInputs.cache
+C:\Users\Yauheniya.Dubovik\RiderProjects\Palindrom\Palindrom\obj\Debug\netcoreapp2.1\Palindrom.AssemblyInfo.cs
+C:\Users\Yauheniya.Dubovik\RiderProjects\Palindrom\Palindrom\obj\Debug\netcoreapp2.1\Palindrom.dll
+C:\Users\Yauheniya.Dubovik\RiderProjects\Palindrom\Palindrom\obj\Debug\netcoreapp2.1\Palindrom.pdb
