@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\Yauheniya.Dubovik\\RiderProjects\\TrelloTasks\\Palindrom\\Palindrom.csproj",
-    "projectName": "Palindrom",
-    "projectPath": "C:\\Users\\Yauheniya.Dubovik\\RiderProjects\\TrelloTasks\\Palindrom\\Palindrom.csproj",
-    "outputPath": "C:\\Users\\Yauheniya.Dubovik\\RiderProjects\\TrelloTasks\\Palindrom\\obj\\",
+    "projectUniqueName": "C:\\Users\\Yauheniya.Dubovik\\RiderProjects\\TrelloTasks\\Matrix\\Matrix.csproj",
+    "projectName": "Matrix",
+    "projectPath": "C:\\Users\\Yauheniya.Dubovik\\RiderProjects\\TrelloTasks\\Matrix\\Matrix.csproj",
+    "outputPath": "C:\\Users\\Yauheniya.Dubovik\\RiderProjects\\TrelloTasks\\Matrix\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp2.1"

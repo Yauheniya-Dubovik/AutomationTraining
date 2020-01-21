@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yauheniya.Dubovik\\RiderProjects\\TrelloTasks\\Palindrom\\Palindrom.csproj",
-      "projectName": "Palindrom",
-      "projectPath": "C:\\Users\\Yauheniya.Dubovik\\RiderProjects\\TrelloTasks\\Palindrom\\Palindrom.csproj",
+      "projectUniqueName": "C:\\Users\\Yauheniya.Dubovik\\RiderProjects\\TrelloTasks\\Task2ArrayValues\\Task2ArrayValues.csproj",
+      "projectName": "Task2ArrayValues",
+      "projectPath": "C:\\Users\\Yauheniya.Dubovik\\RiderProjects\\TrelloTasks\\Task2ArrayValues\\Task2ArrayValues.csproj",
       "packagesPath": "C:\\Users\\Yauheniya.Dubovik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yauheniya.Dubovik\\RiderProjects\\TrelloTasks\\Palindrom\\obj\\",
+      "outputPath": "C:\\Users\\Yauheniya.Dubovik\\RiderProjects\\TrelloTasks\\Task2ArrayValues\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yauheniya.Dubovik\\AppData\\Roaming\\NuGet\\NuGet.Config",

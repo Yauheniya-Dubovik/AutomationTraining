@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\Yauheniya.Dubovik\\RiderProjects\\TrelloTasks\\Palindrom\\Palindrom.csproj",
-    "projectName": "Palindrom",
-    "projectPath": "C:\\Users\\Yauheniya.Dubovik\\RiderProjects\\TrelloTasks\\Palindrom\\Palindrom.csproj",
-    "outputPath": "C:\\Users\\Yauheniya.Dubovik\\RiderProjects\\TrelloTasks\\Palindrom\\obj\\",
+    "projectUniqueName": "C:\\Users\\Yauheniya.Dubovik\\RiderProjects\\TrelloTasks\\Task2ArrayValues\\Task2ArrayValues.csproj",
+    "projectName": "Task2ArrayValues",
+    "projectPath": "C:\\Users\\Yauheniya.Dubovik\\RiderProjects\\TrelloTasks\\Task2ArrayValues\\Task2ArrayValues.csproj",
+    "outputPath": "C:\\Users\\Yauheniya.Dubovik\\RiderProjects\\TrelloTasks\\Task2ArrayValues\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp2.1"

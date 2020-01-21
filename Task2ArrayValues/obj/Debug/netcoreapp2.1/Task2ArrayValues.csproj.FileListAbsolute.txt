@@ -1,0 +1,10 @@
+C:\Users\Yauheniya.Dubovik\RiderProjects\Palindrom\Task2ArrayValues\bin\Debug\netcoreapp2.1\Task2ArrayValues.deps.json
+C:\Users\Yauheniya.Dubovik\RiderProjects\Palindrom\Task2ArrayValues\bin\Debug\netcoreapp2.1\Task2ArrayValues.runtimeconfig.json
+C:\Users\Yauheniya.Dubovik\RiderProjects\Palindrom\Task2ArrayValues\bin\Debug\netcoreapp2.1\Task2ArrayValues.runtimeconfig.dev.json
+C:\Users\Yauheniya.Dubovik\RiderProjects\Palindrom\Task2ArrayValues\bin\Debug\netcoreapp2.1\Task2ArrayValues.dll
+C:\Users\Yauheniya.Dubovik\RiderProjects\Palindrom\Task2ArrayValues\bin\Debug\netcoreapp2.1\Task2ArrayValues.pdb
+C:\Users\Yauheniya.Dubovik\RiderProjects\Palindrom\Task2ArrayValues\obj\Debug\netcoreapp2.1\Task2ArrayValues.csprojAssemblyReference.cache
+C:\Users\Yauheniya.Dubovik\RiderProjects\Palindrom\Task2ArrayValues\obj\Debug\netcoreapp2.1\Task2ArrayValues.AssemblyInfoInputs.cache
+C:\Users\Yauheniya.Dubovik\RiderProjects\Palindrom\Task2ArrayValues\obj\Debug\netcoreapp2.1\Task2ArrayValues.AssemblyInfo.cs
+C:\Users\Yauheniya.Dubovik\RiderProjects\Palindrom\Task2ArrayValues\obj\Debug\netcoreapp2.1\Task2ArrayValues.dll
+C:\Users\Yauheniya.Dubovik\RiderProjects\Palindrom\Task2ArrayValues\obj\Debug\netcoreapp2.1\Task2ArrayValues.pdb

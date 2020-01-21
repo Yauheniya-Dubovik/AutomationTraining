@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrom", "Palindrom\Palindrom.csproj", "{E46FA33E-61B5-42CF-ABFA-05B445DA520F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2ArrayValues", "Task2ArrayValues\Task2ArrayValues.csproj", "{78A0E7BE-91E7-423D-A3DC-243C0E4E0B2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix", "Matrix\Matrix.csproj", "{AF48B638-C2DC-4B67-A136-C2F33F897521}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E46FA33E-61B5-42CF-ABFA-05B445DA520F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E46FA33E-61B5-42CF-ABFA-05B445DA520F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E46FA33E-61B5-42CF-ABFA-05B445DA520F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E46FA33E-61B5-42CF-ABFA-05B445DA520F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78A0E7BE-91E7-423D-A3DC-243C0E4E0B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78A0E7BE-91E7-423D-A3DC-243C0E4E0B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78A0E7BE-91E7-423D-A3DC-243C0E4E0B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78A0E7BE-91E7-423D-A3DC-243C0E4E0B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF48B638-C2DC-4B67-A136-C2F33F897521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF48B638-C2DC-4B67-A136-C2F33F897521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF48B638-C2DC-4B67-A136-C2F33F897521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF48B638-C2DC-4B67-A136-C2F33F897521}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
